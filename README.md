@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Olá, seja muito bem-vindo(a)!
 
-<!--
-**KetlynGela/KetlynGela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Eu sou a Ketlyn Gela 👩‍💻
 
-Here are some ideas to get you started:
+🎓 Estudante de **Engenharia de Software** (3º período).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonada por **Front-End**, interfaces modernas e por transformar ideias em projetos reais.
+
+Acredito que a melhor forma de aprender é construindo. Por isso, utilizo este GitHub para compartilhar minha evolução, meus estudos e tudo o que desenvolvo durante a minha jornada na tecnologia.
+
+> ✨ **Aprendendo, desenvolvendo e evoluindo um projeto de cada vez.**
+
+---
+
+# 🚀 Projetos
+
+## 🌐 Kelsys Labs
+
+Meu portfólio profissional.
+
+🔗 https://kelsyslabs.com.br
+
+---
+
+## 📱 Lembra+
+
+Aplicativo desenvolvido em Flutter para organização de tarefas e lembretes.
+
+---
+
+## 🎨 Ariati Contabilidade
+
+Projeto de identidade visual.
+
+---
+
+# 💻 Tecnologias
+
+### Front-End
+
+- HTML5
+- CSS3
+- JavaScript
+
+### Mobile
+
+- Flutter
+- Dart
+
+### Atualmente estudando
+
+- Python
+- PHP
+- Banco de Dados
+- Git & GitHub
+
+---
+
+# 🎯 Objetivo
+
+Construir aplicações modernas, acessíveis e responsivas, evoluindo continuamente como desenvolvedora Front-End e Mobile.
+
+---
+
+# 🌎 Contato
+
+🌐 https://kelsyslabs.com.br
+
+💼 LinkedIn *(em breve)*
+
+---
+
+> ## ✨ Aprendendo, desenvolvendo e evoluindo um projeto de cada vez.
