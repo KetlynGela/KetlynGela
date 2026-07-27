@@ -15,7 +15,7 @@
 </a>
 </p>
 
-# 👋 Olá, seja muito bem-vindo(a)!
+# Transformando ideias em soluções reais através da tecnologia.!
 
 ## Eu sou a Ketlyn Gela 👩‍💻
 
