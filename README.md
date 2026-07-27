@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ChatGPT%20Image%2027_07_2026,%2018_11_42.png" width="100%">
+</p>
+
 # 👋 Olá, seja muito bem-vindo(a)!
 
 ## Eu sou a Ketlyn Gela 👩‍💻
