@@ -1,6 +1,19 @@
 <p align="center">
   <img src="ChatGPT%20Image%2027_07_2026,%2018_11_42.png" width="95%">
 </p>
+<p align="center">
+<a href="https://kelsyslabs.com.br">
+<img src="https://img.shields.io/badge/🌐%20Portfólio-Kelsys%20Labs-6C63FF?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/KetlynGela">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="SEU_LINK_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 # 👋 Olá, seja muito bem-vindo(a)!
 
